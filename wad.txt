@@ -1,1 +1,1 @@
-\newcommand{\wad}{wadawadaawsadawada}
+\newcommand{\wad}{wadawadaawsadawada }
